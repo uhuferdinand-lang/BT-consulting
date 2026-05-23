@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+html {
+  background: #f5f3ef;
+}
+
+body {
+  margin: 0;
+  background: #f5f3ef;
+}
+
+* {
+  box-sizing: border-box;
+}
