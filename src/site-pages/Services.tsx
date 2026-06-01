@@ -82,7 +82,11 @@ export default function Services() {
             </p>
           </AnimatedBlock>
           <AnimatedBlock className="mt-14">
-            <ImageReveal src={imageUrls.services} alt="Clean strategic desk setup for consulting work" />
+            <ImageReveal
+              src={imageUrls.services}
+              alt="Consulting strategy session in a modern office"
+              imgClassName="scale-[1.015] blur-[1.5px]"
+            />
           </AnimatedBlock>
         </div>
       </Section>

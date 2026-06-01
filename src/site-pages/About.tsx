@@ -80,8 +80,16 @@ export default function About() {
       </Section>
 
       <Section className="bg-[#EDEAE4] px-5 py-24 sm:px-8 md:py-32 lg:px-10">
-        <div className="mx-auto grid max-w-7xl">
-          <div>
+        <div className="mx-auto grid max-w-7xl gap-10 lg:grid-cols-[0.85fr_1.15fr] lg:items-center lg:gap-16">
+          <AnimatedBlock className="lg:order-2">
+            <ImageReveal
+              src={imageUrls.founder}
+              alt="Founder of BT Consulting"
+              className="aspect-[4/5] max-h-[680px]"
+              imgClassName="object-[center_top]"
+            />
+          </AnimatedBlock>
+          <div className="lg:order-1">
             <AnimatedBlock>
               <Label pink>Founder</Label>
             </AnimatedBlock>
