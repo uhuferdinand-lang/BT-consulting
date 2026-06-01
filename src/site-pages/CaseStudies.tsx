@@ -90,7 +90,7 @@ export default function CaseStudies() {
           <AnimatedBlock>
             <p className="mx-auto mt-4 max-w-lg font-['DM_Sans'] text-base font-light text-[#A09890]">One session. One honest diagnosis.</p>
           </AnimatedBlock>
-          <AnimatedBlock className="mt-8"><BookingButton label="Book for $299" /></AnimatedBlock>
+          <AnimatedBlock className="mt-8"><BookingButton label="Book for $50" /></AnimatedBlock>
         </div>
       </Section>
     </PageShell>

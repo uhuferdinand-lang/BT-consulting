@@ -194,10 +194,10 @@ export default function Home() {
               ))}
             </div>
             <AnimatedBlock className="mt-10 rounded-sm border border-[#D8D4CE] border-l-2 border-l-[#748A55] bg-[#EDEAE4] p-8">
-              <AnimatedText text="$299" tag="h3" className="font-['Playfair_Display'] text-5xl font-normal text-[#1A1A18] md:text-6xl" />
+              <AnimatedText text="$50" tag="h3" className="font-['Playfair_Display'] text-5xl font-normal text-[#1A1A18] md:text-6xl" />
               <p className="mt-3 font-['DM_Sans'] text-sm font-light text-[#6B6560]">One session. One diagnosis. One clear path forward.</p>
               <div className="mt-7">
-                <BookingButton label="Book for $299" />
+                <BookingButton label="Book for $50" />
               </div>
             </AnimatedBlock>
           </div>

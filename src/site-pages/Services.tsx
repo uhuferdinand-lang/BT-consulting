@@ -13,7 +13,7 @@ const services = [
     label: "ENTRY POINT",
     pink: true,
     name: "The Business Diagnosis Session",
-    price: "$299",
+    price: "$50",
     duration: "90 minutes",
     description:
       "A forensic 90-minute consultation that surfaces the one or two structural issues actually holding you back, plus the sequenced moves to fix them.",
@@ -24,7 +24,7 @@ const services = [
       "Prioritized 30-day action roadmap",
       "One follow-up accountability call",
     ],
-    cta: "Book for $299",
+    cta: "Book for $50",
   },
   {
     label: "MOST ENGAGED",

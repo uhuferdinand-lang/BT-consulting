@@ -27,7 +27,7 @@ export function MobileBookingBar() {
             Business Diagnosis Session
           </p>
           <p className="font-['Playfair_Display'] text-lg font-normal text-[#F5F3EF]">
-            $299
+            $50
           </p>
         </div>
         <BookingButton label="Book" className="px-4 py-2.5" />
@@ -35,4 +35,3 @@ export function MobileBookingBar() {
     </motion.div>
   );
 }
-
