@@ -20,14 +20,6 @@ export function Footer() {
           <p className="font-['Playfair_Display'] text-2xl italic leading-snug text-[#F5F3EF]">
             Get the thinking on strategy, structure, and scale.
           </p>
-          <a
-            href="mailto:hello@btconsulting.co"
-            aria-label="Email BT Consulting"
-            className="inline-flex min-h-11 items-center gap-2 justify-self-start rounded-sm font-['DM_Sans'] text-sm font-normal text-[#A09890] outline-none transition-colors hover:text-[#BFCFA2] focus-visible:ring-2 focus-visible:ring-[#F5F3EF]"
-          >
-            hello@btconsulting.co
-            <ArrowUpRight className="h-4 w-4" aria-hidden="true" />
-          </a>
         </AnimatedBlock>
 
         <div className="grid grid-cols-2 gap-10 py-12 md:grid-cols-4">
